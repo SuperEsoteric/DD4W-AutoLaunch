@@ -1,4 +1,4 @@
-# Automatically start container with Docker Desktop for Windows
+# Auto start Docker Desktop for Windows container
 
 DD4W-StartUpAutoLauncher launches a container in Docker Desktop for Windows automatically following system start up, similar to a system service.
 
